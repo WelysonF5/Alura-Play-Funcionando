@@ -1,9 +1,10 @@
+https://welysonf5.github.io/Alura-Play-Funcionando/
+
+* json-server
+* --watch db.json
+
 ![image](https://github.com/user-attachments/assets/1191cf57-134c-43ba-9baa-b99906ea36e7)
 ![image](https://github.com/user-attachments/assets/40c86b89-eed1-432b-984a-59e86ce86e5f)
-cd caminho\do\documento
-json-server --watch db.json
-
-
 
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
